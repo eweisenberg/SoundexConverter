@@ -1,0 +1,7 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1701977354
+icon.svg::CompressedTexture2D::2012753634549483457::1701971052::1701971057::1::::<><>::
+Speaker_Icon.svg::CompressedTexture2D::5607434207663586618::1701977354::1701977356::1::::<><>::
+theme.tres::Theme::4263896439951278078::1701976671::0::1::::<><>::
+ui.gd::GDScript::-1::1701974644::0::1::::<>Control<>::
+ui.tscn::PackedScene::8978077437612085118::1701976672::0::1::::<><>::uid://b10p0sve11pic::::res://theme.tres<>res://ui.gd
